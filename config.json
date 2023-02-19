@@ -1,0 +1,7 @@
+{
+	"prefix": "!",
+	"token": process.env.token",
+	"owner": "746736366347616257",
+	"client_id": "764484037829984256",
+	"test_guild_id": "1061048907309797406"
+}
